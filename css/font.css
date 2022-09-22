@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(font/NotoSansKR-Light-subset.eot);
+    src: local('Noto Sans Korean'), local("Apple SD Gothic Neo"), url(font/NotoSansKR-Light.woff2) format('woff2'), url(font/NotoSansKR-Light.woff) format('woff')
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 700;
+    src: url(font/NotoSansKR-Medium-subset.eot);
+    src: local('Noto Sans Korean'), local("Apple SD Gothic Neo"), url(font/NotoSansKR-Medium-subset.woff) format('woff')
+}
+
+@font-face {
+    font-family: 'Buri';
+    font-style: normal;
+    font-weight: 400;
+    src: url(font/Arita-buriM-subset.eot);
+    src: url(font/Arita-buriM-subset.woff) format('woff')
+}
+
+@font-face {
+    font-family: 'BuriSB';
+    font-style: normal;
+    font-weight: 400;
+    src: url(font/Arita-buri-SemiBold.eot);
+    src: url(font/Arita-buri-SemiBold.woff) format('woff')
+}
+
+@font-face {
+    font-family: 'AritaL';
+    font-style: normal;
+    font-weight: normal;
+    src: url(font/aritta-Light.eot);
+    src: url(font/aritta-Light.eot?#iefix) format('embedded-opentype'), url(font/aritta-Light.woff) format('woff'), url(font/aritta-Light.ttf) format('truetype')
+}
